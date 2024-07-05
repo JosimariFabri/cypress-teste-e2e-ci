@@ -1,0 +1,27 @@
+{
+    "success": true,
+    "cart": {
+        "_id": "66882a88561b5d7d5fac8b40",
+        "products": [
+            {
+                "productId": {
+                    "_id": "668800f6561b5d7d5fac86f7",
+                    "photos": [
+                        "http://lojaebac.ebaconline.art.br/lojaebac/lojaebac/eos-3-1720189174143.webp",
+                        "http://lojaebac.ebaconline.art.br/lojaebac/lojaebac/eos-2-1720189174129.webp"
+                    ],
+                    "name": "Eos V-Neck Hoodie",
+                    "price": 54,
+                    "quantity": 9997,
+                    "specialPrice": 50
+                },
+                "quantity": 1,
+                "_id": "66884133561b5d7d5fac8e73"
+            }
+        ],
+        "userId": "6660a6dbcbcbc2a9bb2c9fac",
+        "createdAt": "2024-07-05T17:16:56.678Z",
+        "updatedAt": "2024-07-05T18:53:42.453Z",
+        "__v": 0
+    }
+}
